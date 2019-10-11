@@ -1,0 +1,2 @@
+# bot-ig
+termux
